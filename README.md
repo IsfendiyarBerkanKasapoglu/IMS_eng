@@ -1,14 +1,14 @@
 # PiriReis - IMS
 
-Screen Shoots:
+Some Screen Shoots:
 
 ![Screen Shot 2022-09-02 at 13 43 47](https://user-images.githubusercontent.com/84452695/188123997-d45f3851-6d32-44d4-9bf3-2dc273991f8e.png)
 
-![Screen Shot 2022-09-02 at 13 44 19](https://user-images.githubusercontent.com/84452695/188124090-ea667c04-3a8e-4b8f-868a-c2648392473c.png)
+![Screen Shot 2022-09-02 at 13 52 57](https://user-images.githubusercontent.com/84452695/188124997-6a53c7b8-0fdb-4218-838c-0422675a368d.png)
 
-![Screen Shot 2022-09-02 at 13 44 47](https://user-images.githubusercontent.com/84452695/188124100-8cd4b8f4-dfa0-456f-a1da-f95b716759ff.png)
+![Screen Shot 2022-09-02 at 13 53 24](https://user-images.githubusercontent.com/84452695/188125005-50b55c0c-0d9c-4594-92d1-b1a660a6b114.png)
 
-![Screen Shot 2022-09-02 at 13 45 03](https://user-images.githubusercontent.com/84452695/188124178-4692c2f9-4a9b-4d8e-84fa-c4d1437f3620.png)
+
 
 
 Open terminal:
