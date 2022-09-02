@@ -30,17 +30,17 @@
           <ul class="navbar-nav">
             <li>
               {% load static %}
-            <a class="nav-link active"><img height="30px" width="150px" src="{% static 'logo.jpeg' %}"></a>
+            <a class="nav-link active" href="https://about.pirireis.com.tr"><img height="30px" width="150px" src="{% static 'logo.jpeg' %}"></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="{% url 'inventory_list' %}">Home</a>
+              <a class="nav-link active" aria-current="page" href="{% url 'inventory_list' %}">Home</a>
             </li>
               {% if request.user.is_authenticated %}
               <li>
-                <a class="nav-link active" href="{% url 'add_inventory' %}">Add Inventory</a>
+                <a class="nav-link active" aria-current="page" href="{% url 'add_inventory' %}">Add Inventory</a>
               </li>
               <li>
-                <a class="nav-link active" href="{% url 'logout' %}">Logout</a>
+                <a class="nav-link active" aria-current="page" href="{% url 'logout' %}">Logout</a>
               </li>
               
               {% endif %}
